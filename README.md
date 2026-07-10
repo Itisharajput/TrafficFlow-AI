@@ -100,7 +100,4 @@ TrafficFlow AI is a machine learning project that predicts traffic congestion us
 B.Sc. Computer Science Student
 
 Interested in Artificial Intelligence, Machine Learning, and Data Science.
-## Author
 
-Itisha Rajput — B.Sc. Computer Science, Pradhan Mantri College of Excellence, Badwani (DAVV Indore)
-Built as a companion project to [AnnadataAI](https://github.com/Itisharajput/AnnadataAI)
