@@ -84,6 +84,22 @@ The dominant signal is same-time-yesterday congestion (46% importance) — confi
 - Add accident detection using computer vision (YOLO + OpenCV)
 - Deploy the application online
 
+## 📖 Project Overview
+
+TrafficFlow AI is a machine learning project that predicts traffic congestion using historical traffic patterns. It uses synthetic traffic data to demonstrate how AI can help forecast road congestion.
+
+## 📊 Results
+
+- R² Score: 0.937
+- MAE: 2.77 percentage points
+
+## 👩‍💻 Author
+
+**Itisha Rajput**
+
+B.Sc. Computer Science Student
+
+Interested in Artificial Intelligence, Machine Learning, and Data Science.
 ## Author
 
 Itisha Rajput — B.Sc. Computer Science, Pradhan Mantri College of Excellence, Badwani (DAVV Indore)
