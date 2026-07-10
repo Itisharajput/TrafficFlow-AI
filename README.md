@@ -76,6 +76,14 @@ For each road segment, at each hour, the model predicts next-hour congestion usi
 
 The dominant signal is same-time-yesterday congestion (46% importance) — confirming that Indian city traffic is highly repetitive day-to-day, which is exactly what makes short-term forecasting tractable with a relatively simple model.
 
+## Future Improvements
+
+- Integrate real-time traffic APIs
+- Train with real traffic datasets
+- Deploy a live dashboard
+- Add accident detection using computer vision
+- Optimize routes using AI
+
 ## Author
 
 Itisha Rajput — B.Sc. Computer Science, Pradhan Mantri College of Excellence, Badwani (DAVV Indore)
