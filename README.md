@@ -7,7 +7,7 @@ An AI-powered traffic congestion prediction system built using Python, Scikit-le
 - 🚗 Predicts traffic congestion 1–24 hours ahead
 - 📊 Machine Learning model using Random Forest
 - 📈 Achieved R² = 0.937 and MAE = 2.77
-- 🛣️ Interactive dashboard for traffic visualization
+-  📊 Visualizes traffic prediction results
 - 📁 Synthetic dataset with realistic traffic patterns
 
 ## 🛠️ Technologies Used
@@ -16,7 +16,6 @@ An AI-powered traffic congestion prediction system built using Python, Scikit-le
 - Pandas
 - NumPy
 - Scikit-learn
-- React
 - Git & GitHub
 # TrafficFlow AI — City Traffic Congestion Prediction Dashboard
 
@@ -38,7 +37,7 @@ Traffic congestion in Indian cities is largely predictable — rush hours, weekd
 
 - **Data**: synthetic traffic generator modeling realistic rush-hour, weekday/weekend, and incident patterns (Python, NumPy, Pandas) — swappable for real sensor/GPS data
 - **ML**: scikit-learn `RandomForestRegressor`, lag + rolling-window feature engineering, time-based train/test split
-- **Dashboard**: React + Recharts
+  
 
 ## Project structure
 
@@ -76,13 +75,14 @@ For each road segment, at each hour, the model predicts next-hour congestion usi
 
 The dominant signal is same-time-yesterday congestion (46% importance) — confirming that Indian city traffic is highly repetitive day-to-day, which is exactly what makes short-term forecasting tractable with a relatively simple model.
 
-## Future Improvements
+## 🚀 Future Improvements
 
-- Integrate real-time traffic APIs
-- Train with real traffic datasets
-- Deploy a live dashboard
-- Add accident detection using computer vision
-- Optimize routes using AI
+- Build a React dashboard for interactive visualization
+- Integrate real traffic datasets
+- Connect with Google Maps APIs
+- Add live traffic prediction
+- Add accident detection using computer vision (YOLO + OpenCV)
+- Deploy the application online
 
 ## Author
 
