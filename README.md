@@ -1,3 +1,23 @@
+# 🚦 TrafficFlow AI
+
+An AI-powered traffic congestion prediction system built using Python, Scikit-learn, and React.
+
+## 🌟 Features
+
+- 🚗 Predicts traffic congestion 1–24 hours ahead
+- 📊 Machine Learning model using Random Forest
+- 📈 Achieved R² = 0.937 and MAE = 2.77
+- 🛣️ Interactive dashboard for traffic visualization
+- 📁 Synthetic dataset with realistic traffic patterns
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- React
+- Git & GitHub
 # TrafficFlow AI — City Traffic Congestion Prediction Dashboard
 
 Predicts road congestion 1–24 hours ahead for multiple city road segments using historical traffic patterns, so commuters can avoid jams and traffic police can plan deployment.
